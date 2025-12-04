@@ -11,9 +11,6 @@ Realtime Messaging – Menggunakan Laravel Reverb untuk komunikasi instan tanpa 
 
 Private & Group Chat – Pengguna dapat mengirim pesan secara pribadi atau dalam satu grup.
 
-Kirim Gambar & File – Mendukung upload media untuk memperkaya obrolan.
-
-Status Online/Offline – User presence dengan event broadcasting.
 
 UI Modern – Tampilan clean menggunakan TailwindCSS.
 
